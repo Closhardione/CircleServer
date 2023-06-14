@@ -5,29 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="977edc71-5e3f-4753-b550-76fcbe7426db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/Dot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/Dot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/client/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/client/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/server/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/server/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/powtorzenie_2_kolos/server/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/powtorzenie_2_kolos/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/powtorzenie_2_kolos/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2R9PmFBCC7QieMVLNQ07FFxb0QA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,7 +74,17 @@
       <option name="presentableId" value="Default" />
       <updated>1686659140401</updated>
       <workItem from="1686659141844" duration="5000" />
+      <workItem from="1686659487639" duration="527000" />
+      <workItem from="1686660061399" duration="3437000" />
+      <workItem from="1686727215050" duration="5218000" />
+      <workItem from="1686738493098" duration="2944000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
